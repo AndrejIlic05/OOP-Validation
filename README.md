@@ -2,7 +2,7 @@
 
 Welcome to the **OOP Form Validation** repository! This project leverages Object-Oriented Programming (OOP) in JavaScript to validate a user registration form, providing dynamic and detailed feedback on input fields.
 
-![OOP Form Validation Screenshot](img/screenshot.png)
+![OOP Form Validation Screenshot](OOP-Validation.png)
 
 ## 🔗 Live Demo
 
